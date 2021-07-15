@@ -1,0 +1,4 @@
+#Thu Jul 15 15:34:23 EET 2021
+base.0=/home/omar/Desktop/practice/bloc_todo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

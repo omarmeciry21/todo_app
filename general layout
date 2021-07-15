@@ -1,0 +1,18 @@
+data:
+	- local
+	- models
+ui:
+	- screens:
+		- home screen
+		- main.dart
+	- components:
+		- doing
+		- done
+		- archived
+		- bottom nav bar
+	- cubit
+		- cubit
+		- states
+util:
+	- constants
+

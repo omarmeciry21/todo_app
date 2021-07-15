@@ -1,0 +1,14 @@
+data:
+	- local
+	- models
+ui:
+	- screens:
+		- main
+	- components:
+		- doing
+		- done
+		- archived
+	- cubit
+util:
+	- constants
+
